@@ -1,0 +1,15 @@
+{
+  "name": "hello world",
+  "version": "1.0.0",
+  "description": "simple node express server with phantom and mongoose integration",
+  "main": "server.js",
+  "author": {
+    "name": "Michael Baltic",
+    "email": "geekstrap@live.com"
+  },
+  "dependencies": {
+    "express": "latest",
+    "phantom": "latest",
+    "mongoose": "latest"
+  }
+}
